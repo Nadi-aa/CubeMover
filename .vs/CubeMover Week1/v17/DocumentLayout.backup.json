@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity Projects\\CubeMover Week1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E0F78D-F134-BD17-D2F8-6E6F9CFBBE2F}|Assembly-CSharp.csproj|c:\\unity projects\\cubemover week1\\assets\\scripts\\player_sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E0F78D-F134-BD17-D2F8-6E6F9CFBBE2F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player_sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player_sc.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\CubeMover Week1\\Assets\\Scripts\\Player_sc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player_sc.cs",
+              "ToolTip": "C:\\Unity Projects\\CubeMover Week1\\Assets\\Scripts\\Player_sc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player_sc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:47:58.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
